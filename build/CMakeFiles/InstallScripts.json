@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"A:/ProgrmmingStuff/Ray_Tracing_in_One_Weekend/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
